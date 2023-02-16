@@ -1,4 +1,5 @@
 import "./Movie.css"
+
 const Movie = ({movie})=> {
   return(
   <div className="movie">

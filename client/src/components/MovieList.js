@@ -1,5 +1,7 @@
 import React from "react";
 import Movie from "./Movie.js"
+
+
 const harryPotterFirst = {
   title: "Harry Potter and the Sorcers stone",
   image: "https://m.media-amazon.com/images/I/51HSkTKlauL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
