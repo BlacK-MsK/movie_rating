@@ -1,13 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
-import MovieList from "./components/MovieList.js"
-import "./components/Movie.css"
+import MovieList from "./components/MovieList/MovieList.js"
+import Header from "./components/Header/Header.js"
 
 
 function App() {
   return (
     <>
-      <h1>Movie Ratings</h1>
+      <Header />
       <MovieList />
     </>
   );

@@ -1,9 +1,8 @@
-import React from "react";
-import Movie from "./Movie.js"
+import Movie from "../Movie/Movie.js"
 
 
 const harryPotterFirst = {
-  title: "Harry Potter and the Sorcers stone",
+  title: "Harry Potter and the Sorcerer's Stone",
   image: "https://rukminim1.flixcart.com/image/850/1000/l0pm3680/poster/3/i/j/large-harry-potter-the-sorcerer-s-stone-poster-poster-print-on-original-imagcfwh8av8gukb.jpeg?q=20",
   rating: 5
 };
@@ -32,7 +31,7 @@ const blackPanther = {
   rating: 3.7
 };
 
-const intersteller = {
+const interstellar = {
   title: "Intersteller",
   image: "https://www.themoviedb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
   rating: 5
@@ -56,7 +55,7 @@ const movies = [
   ironman,
   spiderman,
   blackPanther,
-  intersteller,
+  interstellar,
   avengers,
   theLastOfUs
 ];

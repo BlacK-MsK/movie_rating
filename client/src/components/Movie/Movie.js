@@ -6,7 +6,7 @@ const Movie = ({movie})=> {
     <div className="card"> 
       <h2>{movie.title}</h2>
       <img src={movie.image} alt={movie.title}/>
-      <p style= {{color: "yellow"}}>Rating: {movie.rating}</p>
+      <p style= {{color: "gold"}}>Rating: {movie.rating}</p>
     </div>    
   </div>
 )}
