@@ -4,12 +4,12 @@ body{
   font-family: Montserrat;
   color: #EDEDED;
   text-align: center;
-  background-color: #171717;
+  background: radial-gradient(circle, rgb(9, 118, 207), rgb(31, 22, 84));
 }
 
 h1{
   font-family: "Great Vibes", cursive; 
-  font-size: 100px; 
+  font-size: 90px; 
   line-height: 90px; 
   font-weight: normal; 
   margin-bottom: 20px; 
@@ -17,4 +17,5 @@ h1{
   text-align: center; 
   text-shadow: 0 1px 1px #fff;
   text-decoration: underline;
+
 }
